@@ -6,4 +6,5 @@
 4. [Project 4 - Car tail lights](https://github.com/AndreeaFG/Project-Car-tail-lights)
 5. [Project 5 - Python Application SISD Optimal Flight](https://github.com/AndreeaFG/PythonApplicationSISDOptimalFlight)
 6. [Project 6 - Statistical analysis Python](https://github.com/AndreeaFG/statistical-analysis-Python)
-7. [Project 6 - 5G NR](https://github.com/AndreeaFG/Project-5GNR)
+7. [Project 7 - Reading the ambient temperature_Temp Sensor PMOD-TMP with DS1626](https://github.com/AndreeaFG/Reading-the-ambient-temperature_Temp-Sensor-PMOD-TMP-with-DS1626)
+8. [Project 6 - 5G NR](https://github.com/AndreeaFG/Project-5GNR)
